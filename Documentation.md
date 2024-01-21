@@ -16,6 +16,9 @@
 <p align="center">
   <img width="1036" alt="check consumer topic data-raw" src="https://github.com/nurululum/kafka-data-streaming/assets/116478678/fd799a9c-4d8f-4547-934c-7d61205971f9">
 </p>
+<p align="center">
+  <img width="1222" alt="nurul-data-raw" src="https://github.com/nurululum/kafka-data-streaming/assets/116478678/9fce8cf4-4634-4039-95e0-a3e8d2a4a11a">
+</p>
 
 5. Run script ETL script using spark streaming
 <p align="center">
@@ -25,6 +28,9 @@
 6. Run script for check consumer topic nurul-data-clean
 <p align="center">
   <img width="922" alt="check consumer topic data-clean" src="https://github.com/nurululum/kafka-data-streaming/assets/116478678/09d976c5-26b5-4b1f-9eb0-777ea1324def">
+</p>
+<p align="center">
+  <img width="1217" alt="nurul-data-clean" src="https://github.com/nurululum/kafka-data-streaming/assets/116478678/8e501de8-e36c-4e2b-a998-b35659e0e0fd">
 </p>
 
 7. Connect to realtime dashboard
